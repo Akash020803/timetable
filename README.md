@@ -96,5 +96,5 @@ Execute the program
 
 ~~~
 # OUPUT
-![Github logo](time_table,png)
-![Github logo](logo,png)
+![Github logo](logo.png)
+![Github logo](time_table.png)
